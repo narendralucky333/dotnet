@@ -1,1 +1,2 @@
 DOTNET_PIPELINE=app/app.csproj
+DOTNET=app.tests/app.tests.csproj
