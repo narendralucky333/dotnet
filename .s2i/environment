@@ -1,2 +1,2 @@
-DOTNET_PIPELINE=app/app.csproj
-DOTNET=app.tests/app.tests.csproj
+DOTNET_PIPELINE_PROJECT=app/app.csproj
+DOTNET_PROJECT=app.tests/app.tests.csproj
